@@ -19,6 +19,9 @@
     "scope",
     "cli"
   ],
+ "bin": {
+    "scopify-cli": "bin/scopify-cli"
+  },
   "author": "pazams <maorzams@gmail.com>",
   "license": "MIT",
   "bugs": {
