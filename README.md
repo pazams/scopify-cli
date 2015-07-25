@@ -1,7 +1,7 @@
 # scopify-cli
 
 A command line interface for [PostCSS-Scopify].
-This interface will walk the current working directory and will add user input css scope to each .css file
+This interface will walk the current working directory and will add user input css scope to each selector at each .css file
 
 [PostCSS]: https://github.com/postcss/postcss
 [PostCSS-Scopify]: https://github.com/pazams/postcss-scopify
