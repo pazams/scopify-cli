@@ -1,6 +1,6 @@
 {
   "name": "scopify-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A command line interface for PostCSS-Scopify. This interface will walk the current working directory and will add user input css scope to each selector at each .css file ",
   "main": "index.js",
   "scripts": {
