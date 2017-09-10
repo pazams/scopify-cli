@@ -30,7 +30,7 @@
   "homepage": "https://github.com/pazams/scopify-cli#readme",
   "dependencies": {
     "diveSync": "^0.3.0",
-    "postcss": "^4.1.16",
-    "postcss-scopify": "^0.1.1"
+    "postcss": "^6.0.11",
+    "postcss-scopify": "^0.1.9"
   }
 }
